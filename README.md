@@ -1,5 +1,5 @@
 # Blockchain-AI-Model-Paper
-Compensating Artists for their Contribution in Training AI: A Blockchain-based Solution for Secure and Automated Payment of image-based Smart Contracts
+Compensating Artists for their Contribution in Training AI: A Blockchain-based Solution for Secure and Automated Payment of image-based modeling
 
 # Introduction
 - Overview of the problem of artist compensation in the age of AI and machine learning
