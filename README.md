@@ -1,4 +1,4 @@
-#Summary
+# Summary
 AI generated images are in need of provenance, especially when the sole purpose is for commercial ends.
 And in some cases, these images should include attribution to the prompt used to generate the image and any influences from other artists that weighed heavier in the algorithms response.
 In this white paper I’ll work to show an approach that promotes the use of the blockchain as an immutable source of provenance, attribution, and ultimately royalty payment for AI generated creative works.
