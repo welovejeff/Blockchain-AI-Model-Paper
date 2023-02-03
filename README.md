@@ -1,3 +1,10 @@
+#Summary
+AI generated images are in need of provenance, especially when the sole purpose is for commercial ends.
+And in some cases, these images should include attribution to the prompt used to generate the image and any influences from other artists that weighed heavier in the algorithms response.
+In this white paper I’ll work to show an approach that promotes the use of the blockchain as an immutable source of provenance, attribution, and ultimately royalty payment for AI generated creative works.
+The goal is to show that the best approach for artists whose copy-written works are being used to train AI models is to volunteer their catalog for training, in exchange for compensation and attribution. We’ll look at how this first could be deployed in generative artwork built for the sole purpose of digital sales, NFTs. Then will will examine how this blockchain based system could be expanded to all AI generated creative via a digital image identification system like the widely industry backed Content Authenticity Initiative.
+This approach put forth in this white paper takes on the assumption that a new AI image diffusion model would need to be created with the ability for creators to opt-in and add their artwork to training, and that this model could report out its weight of influence from each of these artists works. And that this model could write its creations to a blockchain with the metadata attached of the prompt used, artists influence weight, and in the case of any generated revenue from a sale, execute a smart contract to payback a royalty to the appropriate artists.
+
 # Blockchain-AI-Model-Paper
 Compensating Artists for their Contribution in Training AI: A Blockchain-based Solution for Secure and Automated Payment of image-based modeling
 
