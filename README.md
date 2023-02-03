@@ -17,7 +17,7 @@ Rewarding Artists For Their Contribution in Training AI: A Blockchain-based Solu
 ## Background
 - Explanation of the challenges of attributing and compensating artists whose works are used in the training of AI models
 - Review of newly launched initiatives from companies like Shutterstock to help compensate artists
-- A look at pending legal action that could treaten the adoption of AI
+- A look at pending legal action that could threaten the adoption of AI
 
 ## Provenance and Attribution via the Blockchain
 - Explanation of how the blockchain can be used as an immutable source of provenance and attribution for AI generated images
